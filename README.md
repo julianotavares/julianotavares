@@ -1,16 +1,21 @@
-### Hi there 👋
+# :man_technologist: Lucas Bittencourt
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/lucasgdb)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianotavares/)](https://www.linkedin.com/in/julianotavares/)
+[![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/lucasgdb)](https://dev.to/lucasgdb)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/153347/juliano-tavares)](https://pt.stackoverflow.com/users/153347/juliano-tavares)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JulianoTavaress)](https://twitter.com/JulianoTavaress)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliano.tavaress@gmail.com)](mailto:juliano.tavaress@gmail.com)
+
+## Olá! 👋
+
+Meu nome é Juliano Tavares, no passado eu entrei no mundo da programação, nos separamos por um longo tempo, mas paixão assim nunca é esquecida, hoje focado em aprimorar meus conhecimentos em JavaScript e seguir cada vez mais apaixonado por esse amor infinito.
+
+- :office_worker: Atualmente estudando a FullStack JavaScript (Node.JS, React.JS e ReactNative).
+- :blue_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript, entre outras.
+- :books: Código Limpo - Habilidades Práticas do Agile Software :heart:
 
 <!--
-**julianotavares/julianotavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+> :octocat: [lucasbittencourt.dev](https://lucasbittencourt.dev)
 -->
+---
