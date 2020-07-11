@@ -1,4 +1,4 @@
-# :man_technologist: Lucas Bittencourt
+# :man_technologist: Juliano Tavares
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/lucasgdb)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianotavares/)](https://www.linkedin.com/in/julianotavares/)
@@ -16,6 +16,6 @@ Meu nome é Juliano Tavares, no passado eu entrei no mundo da programação, nos
 - :books: Código Limpo - Habilidades Práticas do Agile Software :heart:
 
 <!--
-> :octocat: [lucasbittencourt.dev](https://lucasbittencourt.dev)
+> :octocat: [](https://)
 -->
 ---
