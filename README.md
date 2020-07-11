@@ -12,7 +12,7 @@ Meu nome é Juliano Tavares, no passado eu entrei no mundo da programação, nos
 
 - :office_worker: Atualmente estudando a FullStack JavaScript (Node.JS, React.JS e ReactNative).
 - :blue_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript, entre outras.
-- :books: Código Limpo - Habilidades Práticas do Agile Software :heart:
+- :books: Estudando: Código Limpo - Habilidades Práticas do Agile Software :heart:
 
 <!--
 > :octocat: [](https://)
