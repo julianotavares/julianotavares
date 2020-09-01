@@ -6,13 +6,14 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JulianoTavaress)](https://twitter.com/JulianoTavaress)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliano.tavaress@gmail.com)](mailto:juliano.tavaress@gmail.com)
 
-## Olá! 👋
+## Hello! 👋
 
-Meu nome é Juliano Tavares, no passado eu entrei no mundo da programação, nos separamos por um longo tempo, mas paixão assim nunca é esquecida, hoje focado em aprimorar meus conhecimentos em JavaScript e seguir cada vez mais apaixonado por esse amor infinito.
+My name is Juliano Tavares, in the past I entered the world of programming, we separated for a long time, but passion like that is never forgotten, today focused on improving my knowledge in JavaScript and following more and more in love with this infinite love.
 
-- :office_worker: Atualmente estudando a FullStack JavaScript (Node.JS, React.JS e ReactNative).
-- :blue_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript, entre outras.
-- :books: Lendo/Estudando: Código Limpo - Habilidades Práticas do Agile Software :heart:
+- :office_worker: Currently looking for a new job as FullStack Developer (Node.JS - React.JS - ReactNative).
+- :blue_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript, Docker, MongoDB, Linux, AWS, Google Cloud Plataform.
+- :books: Reading: (Clean Code) - Código Limpo - Habilidades Práticas do Agile Software :heart:
+- :new: Studying new technologies: Angular, Vue, Redis, Microsoft Azure and Blender.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=julianotavares&show_icons=true&theme=dracula)
 
