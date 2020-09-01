@@ -14,6 +14,8 @@ Meu nome é Juliano Tavares, no passado eu entrei no mundo da programação, nos
 - :blue_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript, entre outras.
 - :books: Lendo/Estudando: Código Limpo - Habilidades Práticas do Agile Software :heart:
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=julianotavares&show_icons=true&theme=dracula)
+
 <!--
 > :octocat: [](https://)
 -->
