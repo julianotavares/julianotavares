@@ -35,5 +35,3 @@ In the past I entered the world of programming, we separated for a long time, bu
 </a>
 </p>
 <!--> :octocat: 
--->
----
