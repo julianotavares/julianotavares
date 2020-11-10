@@ -19,9 +19,10 @@ My name is Juliano Tavares, in the past I entered the world of programming, we s
 - :books: Reading: (Clean Code) - Código Limpo - Habilidades Práticas do Agile Software :heart:
 - :new: Studying new technologies: Angular, Vue, Redis, Microsoft Azure and Blender.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=julianotavares&count_private=true&show_icons=true&theme=radical&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=julianotavares&count_private=true&show_icons=true&theme=radical&hide=issues)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=julianotavares)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 > :octocat: [](https://)
 -->
