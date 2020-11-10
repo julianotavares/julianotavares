@@ -18,9 +18,6 @@ My name is Juliano Tavares, in the past I entered the world of programming, we s
 - :blue_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript, Docker, MongoDB, Linux, AWS, Google Cloud Plataform.
 - :books: Reading: (Clean Code) - Código Limpo - Habilidades Práticas do Agile Software :heart:
 - :new: Studying new technologies: Angular, Vue, Redis, Microsoft Azure and Blender.
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=julianotavares&show_icons=true&theme=dracula)
-
 <!--
 > :octocat: [](https://)
 -->
