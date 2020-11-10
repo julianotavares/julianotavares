@@ -20,7 +20,7 @@ My name is Juliano Tavares, in the past I entered the world of programming, we s
 - :new: Studying new technologies: Angular, Vue, Redis, Microsoft Azure and Blender.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=julianotavares&count_private=true&show_icons=true&theme=radical&hide=issues)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianotavares&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=julianotavares&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
