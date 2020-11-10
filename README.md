@@ -34,7 +34,6 @@ In the past I entered the world of programming, we separated for a long time, bu
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianotavares&layout=compact&theme=radical" />
 </a>
 </p>
-<!--
-> :octocat: [](https://)
+<!--> :octocat: [sdf](https://)
 -->
 ---
