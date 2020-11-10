@@ -26,14 +26,14 @@ In the past I entered the world of programming, we separated for a long time, bu
 - :blue_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript, Docker, MongoDB, Linux, AWS, Google Cloud Plataform.
 - :books: Reading: (Clean Code) - Código Limpo - Habilidades Práticas do Agile Software :heart:
 - :new: Studying new technologies: Angular, Vue, Redis, Microsoft Azure and Blender.
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="justify">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=julianotavares&show_icons=true&count_private=true&theme=radical&hide=issues" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianotavares&layout=compact&theme=radical" />
 </a>
-
+</p>
 <!--
 > :octocat: [](https://)
 -->
