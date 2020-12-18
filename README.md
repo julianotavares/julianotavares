@@ -23,7 +23,7 @@ In the past I entered the world of programming, we separated for a long time, bu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 - :office_worker: Currently looking for a new job as FullStack Developer (Node.JS - React.JS - ReactNative).
-- :blue_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript, Docker, MongoDB, Linux, AWS, Google Cloud Plataform.
+- :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, Docker, MongoDB, Linux, AWS, Google Cloud Plataform.
 - :books: Reading: (Clean Code) - Código Limpo - Habilidades Práticas do Agile Software :heart:
 - :new: Studying new technologies: Angular, Vue, Redis, Microsoft Azure and Blender.
 <p align="justify">
