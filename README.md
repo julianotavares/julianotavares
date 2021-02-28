@@ -23,9 +23,9 @@ In the past I entered the world of programming, we separated for a long time, bu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 - :office_worker: Currently looking for a new job as FullStack Developer (Node.JS - React.JS - React Native) or Frontend Developer (React.JS - React Native).
-- :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, Docker, MongoDB, Linux, AWS, Google Cloud Plataform.
+- :blue_heart: Techs: React.js, Next.JS, React Native, Node.js, TypeScript, Docker, MongoDB, Linux, AWS, Google Cloud Plataform.
 - :books: Reading: (Clean Code) - Código Limpo - Habilidades Práticas do Agile Software :heart:
-- :new: Studying new technologies: Angular, Vue, Redis, Microsoft Azure and Blender.
+- :new: Studying new technologies: Angular, Vue, Redis and Microsoft Azure.
 <p align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=julianotavares&show_icons=true&count_private=true&theme=radical&hide=issues" />
