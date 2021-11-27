@@ -23,7 +23,7 @@ In the past I entered the world of programming, we separated for a long time, bu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 - :office_worker: Currently working as Front-end Developer.
-- :blue_heart: Techs: React.js, Next.JS, React Native, TypeScript, Node.js, Docker, MongoDB, Linux, AWS.
+- :blue_heart: Techs: React Native, React.js, Next.JS, TypeScript, Node.js, Docker, MongoDB, Linux, AWS.
 - :books: Reading: (Clean Code) - Código Limpo - Habilidades Práticas do Agile Software :heart:
 - :new: Studying new technologies: Next.JS, React Native Animations.
 <p align="justify">
