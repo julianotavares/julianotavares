@@ -33,5 +33,6 @@ In the past I entered the world of programming, we separated for a long time, bu
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianotavares&layout=compact&theme=radical" />
 </a>
+ <a href="https://app.daily.dev/julianotavares"><img src="https://api.daily.dev/devcards/95246a94a1bb4eb182f268a81b520e17.png?r=p80" width="400" alt="Juliano Tavares's Dev Card"/></a>
 </p>
 <!--> :octocat: 
