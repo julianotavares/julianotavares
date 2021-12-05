@@ -26,7 +26,7 @@ In the past I entered the world of programming, we separated for a long time, bu
 - :blue_heart: Techs: React Native, React.js, Next.JS, TypeScript, Node.js, Docker, MongoDB, Linux, AWS.
 - :books: Reading: (Clean Code) - Código Limpo - Habilidades Práticas do Agile Software :heart:
 - :new: Studying new technologies: Next.JS, React Native Animations.
-<p align="center">
+<p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=julianotavares&show_icons=true&count_private=true&theme=radical&hide=issues" />
 </a>
