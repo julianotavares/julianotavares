@@ -11,8 +11,11 @@
     alert( 'Hello, world! 👋' );
   </script>
  ```
+Desde que mergulhei no mundo da T.I. em 1999, minha paixão por criar soluções tecnológicas só cresceu. Comecei a minha jornada codificando em Assembly, uma base sólida que pavimentou meu caminho através de várias linguagens, desde PHP, ASP até Delphi. Nos últimos 5 anos, tenho canalizado essa paixão para o desenvolvimento web e mobile, dominando tecnologias como Javascript, Typescript, React, React Native e Swift. Também possuo conhecimento expressivo sobre Segurança da Informação e Pentest(Hacker Ético), estou mergulhando nos segredos do Python e I.A, ansioso para desbloquear ainda mais potencial.
 
-In the past I entered the world of programming, we separated for a long time, but passion like that is never forgotten, today focused on improving my knowledge in JavaScript and following more and more in love with this infinite love.
+Como empreendedor desde 2005, tive a honra de fundar minha própria empresa de desenvolvimento de software. Com ela, estabeleci parcerias valiosas, prestando serviços terceirizados para gigantes do mercado como Digix, Cobasi e SaveCash. Cada projeto e parceria só reforça minha crença no poder da inovação e na promessa de um futuro digital mais brilhante. Se você valoriza a combinação de experiência comprovada e paixão pela descoberta, adoraria conectar-me com você.
+
+Atualmente focado na stack JavaScript: Node.JS, ReactJS e React Native, em paralelo desenvolvo habilidades de Pentest e Ethical Hacking afim de conhecer falhas em aplicações/servidores para corrigir e evitar futuros problemas.
 
 **Languages and Tools:**  
 
